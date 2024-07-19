@@ -1,0 +1,1 @@
+Źródło: https://www.geeksforgeeks.org/change-image-resolution-using-pillow-in-python/
